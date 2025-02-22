@@ -1,0 +1,5 @@
+INSERT INTO Manufacturers (name) values ('Asinex');
+INSERT INTO Manufacturers (name) values ('KeyOrganics');
+INSERT INTO Manufacturers (name) values ('MayBridge');
+INSERT INTO Manufacturers (name) values ('Nanosyn');
+INSERT INTO Manufacturers (name) values ('Oai40000');
